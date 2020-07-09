@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**plxity/plxity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  I am Apoorv Taneja aka plxity.
 
 - 🔭 I’m currently working as a SDE intern @innovaccer
@@ -12,4 +10,3 @@
 - 📫 How to reach me: @apoorv_taneja
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: .
--->
