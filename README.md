@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- I am Apoorv Taneja aka plxity.
+ #I am Apoorv Taneja.
 
 - 🔭 I’m currently working as a SDE intern @innovaccer
 - 🌱 I’m currently learning ...
