@@ -14,6 +14,8 @@
   <img align="left" alt="Apoorv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
+<br>
+
  #### I am Apoorv Taneja. 
 
 An OpenSource lover and maintain my own organization [Awesome React Modules](https://github.com/Awesome-React-Modules). I'm an upcoming Software Developer at [Innovaccer](https://innovaccer.com/) :man_technologist:.
