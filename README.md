@@ -39,8 +39,8 @@ I have experience of working as a Software Developer in various domains like E-C
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-:writing_hand: - I often write [blogs](http://plxity.hashnode.dev/) to share my learnings with the community and tweet mostly about JavaScirpt -  [Twitter Handle](https://twitter.com/apoorv_taneja). 
+:writing_hand: - I often write [blogs](http://blog.plxity.co/) to share my learnings with the community and tweet mostly about JavaScirpt -  [Twitter Handle](https://twitter.com/apoorv_taneja). 
 
-:computer: - Have a look at my [Portfolio](https://apoorvtaneja.netlify.com/) for more details. :smile: 
+:computer: - Have a look at my [Portfolio](https://www.plxity.co/) for more details. :smile: 
 
 Please feel free to ask me anything. Thank you so much for reading. :blue_heart:
