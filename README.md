@@ -43,4 +43,12 @@ I have experience of working as a Software Developer in various domains like E-C
 
 :computer: - Have a look at my [Portfolio](https://www.plxity.co/) for more details. :smile: 
 
-Please feel free to ask me anything. Thank you so much for reading. :blue_heart:
+## Some of my projects, Do ⭐️ them if you like it.
+
+#### 1. Voice Recognition Flappy bird - [Live Demo](https://plxity.github.io/Flappy-Voice-Recognition-Game/)
+#### 2. StayFit Chrome Extension - [Link](https://github.com/plxity/StayFit-Chrome-Extension)
+#### 3. React-Pincode - [Live Demo](https://react-pincode.netlify.app/), [NPM Link](https://www.npmjs.com/package/react-pincode)
+#### 4. React-Dark - [Live Demo](https://react-dark.netlify.app/), [NPM Link](https://www.npmjs.com/package/react-dark)
+
+
+### Please feel free to ask me anything. Thank you so much for reading. :blue_heart:
