@@ -19,7 +19,7 @@
  ## I am Apoorv Taneja. 
 
 A Full-Stack developer and an OpenSource lover, also maintain my own OpenSource organization [Awesome React Modules](https://github.com/Awesome-React-Modules). I'm an upcoming Software Developer at [Innovaccer](https://innovaccer.com/) :man_technologist:.
-I have experience of working as a Software Developer in various domains like E-Commerce, Entertainment, Heath-Care.
+I have experience of working as a Software Developer in various domains like E-Commerce, Entertainment, Health-Care.
 
 ## ⚡ Technologies
 
