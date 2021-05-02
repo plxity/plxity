@@ -45,13 +45,12 @@ I have experience of working as a Software Developer in various domains like E-C
 
 ## Some of my projects, Do ⭐️ them if you like it.
 
-#### 1. FlixBuddy - [Live Demo](https://flixbuddy.vercel.app/)
-#### 2. Voice Recognition Flappy bird - [Live Demo](https://plxity.github.io/Flappy-Voice-Recognition-Game/)
-#### 3. Hangman Multiplayer - [Link](https://github.com/plxity/Hangman-Multiplayer), [Live Demo](https://hangman-multiplayer.plxity.vercel.app/)
-#### 4. StayFit Chrome Extension - [Link](https://github.com/plxity/StayFit-Chrome-Extension)
-#### 5. React-Pincode - [Live Demo](https://react-pincode.netlify.app/), [NPM Link](https://www.npmjs.com/package/react-pincode)
-#### 6. React-Dark - [Live Demo](https://react-dark.netlify.app/), [NPM Link](https://www.npmjs.com/package/react-dark)
-#### 7. QuickLinks Chrome Extension - [Link](https://github.com/plxity/QuickLinks-Chrome-extension)
+- FlixBuddy - [Live Demo](https://flixbuddy.vercel.app/)
+- Voice Recognition Flappy bird - [Live Demo](https://plxity.github.io/Flappy-Voice-Recognition-Game/)
+- StayFit Chrome Extension - [Link](https://github.com/plxity/StayFit-Chrome-Extension)
+- React-Pincode - [Live Demo](https://react-pincode.netlify.app/), [NPM Link](https://www.npmjs.com/package/react-pincode)
+- React-Dark - [Live Demo](https://react-dark.netlify.app/), [NPM Link](https://www.npmjs.com/package/react-dark)
+- QuickLinks Chrome Extension - [Link](https://github.com/plxity/QuickLinks-Chrome-extension)
 
 
 ### Please feel free to ask me anything. Thank you so much for reading. :blue_heart:
