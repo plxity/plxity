@@ -16,12 +16,12 @@
 
 <br>
 
- ## I am Apoorv Taneja. 
+ ## I'm Apoorv. 
 
-A Full-Stack developer and an OpenSource lover, also maintain my own OpenSource organization [Awesome React Modules](https://github.com/Awesome-React-Modules). I'm currently working as a  Software Engineer Intern at [Innovaccer](https://innovaccer.com/) :man_technologist:.
+A Full-Stack developer and an OpenSource lover, also maintain my own OpenSource organization [Awesome React Modules](https://github.com/Awesome-React-Modules). I'm currently working as a Software Engineer Intern at [Innovaccer](https://innovaccer.com/) :man_technologist:.
 I have experience of working as a Software Developer in various domains like E-Commerce, Entertainment, Health-Care.
 
-## ⚡ Technologies
+### ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -43,7 +43,7 @@ I have experience of working as a Software Developer in various domains like E-C
 
 :computer: - Have a look at my [Portfolio](https://www.plxity.co/) for more details. :smile: 
 
-## Some of my projects, Do ⭐️ them if you like it.
+### Some of my projects, Do ⭐️ them if you like it.
 
 - FlixBuddy - [Live Demo](https://flixbuddy.vercel.app/)
 - Voice Recognition Flappy bird - [Live Demo](https://plxity.github.io/Flappy-Voice-Recognition-Game/)
