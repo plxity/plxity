@@ -39,6 +39,8 @@ I have experience working as a Software Developer in various domains like E-Comm
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
+- 📚- I'm currently learning more about **System Designs, Bundlers, Frontend performance and algorithms**.
+
 - :writing_hand: - I often write [blogs](http://blog.plxity.co/) to share my learnings with the community.
 
 - :bird: - I tweet about JavaScript, OpenSource and side projects on [Twitter](https://twitter.com/apoorv_taneja).
