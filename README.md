@@ -18,8 +18,8 @@
 
  ## I'm Apoorv. 
 
-A Software Engineer and an OpenSource lover, also maintain my own OpenSource organization [Awesome React Modules](https://github.com/Awesome-React-Modules). I'm currently working as a Software Engineer Intern at **[Innovaccer](https://innovaccer.com/)** :man_technologist:.
-I have experience working as a Software Developer in various domains like E-Commerce, Entertainment, Health-Care.
+A Software Engineer and an OpenSource lover, also maintain my own OpenSource organization [Awesome React Modules](https://github.com/Awesome-React-Modules). I'm currently working as a **Software Engineer Intern** at **[Innovaccer](https://innovaccer.com/)** :man_technologist:.
+I have experience working as a Software Developer in various domains like **E-Commerce, Entertainment, Health-Care**.
 
 ### ⚡ Technologies
 
@@ -57,4 +57,4 @@ I have experience working as a Software Developer in various domains like E-Comm
 - QuickLinks Chrome Extension - [Link](https://github.com/plxity/QuickLinks-Chrome-extension)
 
 
- Please feel free to reach out on **[Twitter](https://twitter.com/apoorv_taneja)** or **apoorvtaneja@outlook.com**. Thank you so much for reading. :blue_heart:
+ #### Please feel free to reach out on **[Twitter](https://twitter.com/apoorv_taneja)** or **apoorvtaneja@outlook.com**. Thank you so much for reading. :blue_heart:
