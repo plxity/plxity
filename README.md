@@ -18,8 +18,8 @@
 
  ## I'm Apoorv. 
 
-A Full-Stack developer and an OpenSource lover, also maintain my own OpenSource organization [Awesome React Modules](https://github.com/Awesome-React-Modules). I'm currently working as a Software Engineer Intern at [Innovaccer](https://innovaccer.com/) :man_technologist:.
-I have experience of working as a Software Developer in various domains like E-Commerce, Entertainment, Health-Care.
+A Software Engineer and an OpenSource lover, also maintain my own OpenSource organization [Awesome React Modules](https://github.com/Awesome-React-Modules). I'm currently working as a Software Engineer Intern at **[Innovaccer](https://innovaccer.com/)** :man_technologist:.
+I have experience working as a Software Developer in various domains like E-Commerce, Entertainment, Health-Care.
 
 ### ⚡ Technologies
 
@@ -39,9 +39,11 @@ I have experience of working as a Software Developer in various domains like E-C
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-:writing_hand: - I often write [blogs](http://blog.plxity.co/) to share my learnings with the community and tweet mostly about JavaScirpt -  [Twitter Handle](https://twitter.com/apoorv_taneja). 
+- :writing_hand: - I often write [blogs](http://blog.plxity.co/) to share my learnings with the community.
 
-:computer: - Have a look at my [Portfolio](https://www.plxity.co/) for more details. :smile: 
+- :bird: - I tweet about JavaScript, OpenSource and side projects on [Twitter](https://twitter.com/apoorv_taneja).
+
+- :computer: - Have a look at my [Portfolio](https://www.plxity.co/) for more details.
 
 ### Some of my projects, Do ⭐️ them if you like it.
 
