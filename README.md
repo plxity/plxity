@@ -48,7 +48,7 @@ I have experience working as a Software Developer in various domains like **E-Co
 - :computer: - Have a look at my [Portfolio](https://www.plxity.co/) for more details.
 
 ### Some of my projects, Do ⭐️ them if you like it.
-
+- Spotify Twitter Header - [Live Demo](https://twitter.com/apoorv_taneja), [Codebase](https://github.com/plxity/Spotify_Twitter_banner)
 - FlixBuddy - [Live Demo](https://flixbuddy.vercel.app/)
 - Voice Recognition Flappy bird - [Live Demo](https://plxity.github.io/Flappy-Voice-Recognition-Game/)
 - StayFit Chrome Extension - [Link](https://github.com/plxity/StayFit-Chrome-Extension)
