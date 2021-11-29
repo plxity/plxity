@@ -1,42 +1,27 @@
 # Hi there 👋
 
+I'm Apoorv. Currently wokring at Razorpay as a Frontend Engineer. 
 
-<a href="https://twitter.com/apoorv_taneja">
-  <img align="left" alt="Apoorv Taneja | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/apoorvtaneja/">
-  <img align="left" alt="Apoorv's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/apoorvtaneja/">
-  <img align="left" alt="Apoorv's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://leetcode.com/plxity/">
-  <img align="left" alt="Apoorv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
+I have previously worked with Innovaccer, EventGraphia and Cupido as an intern.
 
-<br>
+In my free time, I like to build projects - 
 
- ## I'm Apoorv. 
-
-A Software Engineer and an OpenSource lover, also maintain my own OpenSource organization [Awesome React Modules](https://github.com/Awesome-React-Modules). I'm currently working as a **Frontend Engineer** at **[RazorPay](https://razorpay.com/)** :man_technologist:.
-I have experience working as a Software Developer in various domains like **E-Commerce, Entertainment, Health-Care**.
-
-- 📚- I'm currently learning more about **System Designs, Bundlers, Frontend performance and algorithms**.
-
-- :writing_hand: - I often write [blogs](http://blog.plxity.co/) to share my learnings with the community.
-
-- :bird: - I tweet about JavaScript, OpenSource and side projects on [Twitter](https://twitter.com/apoorv_taneja).
-
-- :computer: - Have a look at my [Portfolio](https://www.plxity.co/) for more details.
-
-### Some of my projects, Do ⭐️ them if you like it.
-- Spotify Twitter Header - [Live Demo](https://twitter.com/apoorv_taneja), [Codebase](https://github.com/plxity/Spotify_Twitter_banner)
-- FlixBuddy - [Live Demo](https://flixbuddy.vercel.app/)
-- Voice Recognition Flappy bird - [Live Demo](https://plxity.github.io/Flappy-Voice-Recognition-Game/)
-- StayFit Chrome Extension - [Link](https://github.com/plxity/StayFit-Chrome-Extension)
-- React-Pincode - [Live Demo](https://react-pincode.netlify.app/), [NPM Link](https://www.npmjs.com/package/react-pincode)
-- React-Dark - [Live Demo](https://react-dark.netlify.app/), [NPM Link](https://www.npmjs.com/package/react-dark)
-- QuickLinks Chrome Extension - [Link](https://github.com/plxity/QuickLinks-Chrome-extension)
+1. [Look For a Space](lookfora.space) - An application to search for interesting spaces happening on twitter.
+2. [ESBuild-cross-browser-css](https://www.npmjs.com/package/esbuild-plugin-cross-browser-css) - An ESBuild plugin to add support from cross browser CSS.
+3. [React-Pincode](https://www.npmjs.com/package/react-pincode) - An NPM module which autofills city, state and distric details as you enter a valid pincode. 
+4. [Twitter BFF](http://twitterbff.vercel.app/) - A fun app to find your Twitter BFF based on your engagements. Had a reach of **150k** in 2 days.
+5. [Spotify Header](https://twitter.com/apoorv_taneja) - An application which updates my twitter header with top played Spotify Tracks in every 24 hours.
 
 
- #### Please feel free to reach out on **[Twitter](https://twitter.com/apoorv_taneja)** or **apoorvtaneja@outlook.com**. 
+I also like to give **tech talks** to share my learnings with the community.
+1. [Beginners guide to Next-Auth](https://www.youtube.com/watch?v=npZsJxWntJM)
+2. [Build an online code editor like codesandbox using ESBuild](https://www.youtube.com/watch?v=SM3AfRvp3-Y)
+3. [Create your first babel plugin - Workshop](https://www.youtube.com/watch?v=dgK__fSFZzc)
+
+
+
+**[Blog](https://blog.plxity.co/) | [Twitter](https://twitter.com/apoorv_taneja) | [email](apoorvtaneja@outlook.com) | [LinkedIn](https://www.linkedin.com/in/apoorvtaneja/)**
+
+
+
+
