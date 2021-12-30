@@ -17,6 +17,7 @@ I also like to give **tech talks** to share my learnings with the community.
 1. [Beginners guide to Next-Auth](https://www.youtube.com/watch?v=npZsJxWntJM)
 2. [Build an online code editor like codesandbox using ESBuild](https://www.youtube.com/watch?v=SM3AfRvp3-Y)
 3. [Create your first babel plugin - Workshop](https://www.youtube.com/watch?v=dgK__fSFZzc)
+4. [Landing Frontend Engineering Roles - Github Tech Interviews Simplified](https://www.twitch.tv/videos/1185692903?collection=IQOse4ZdmRbKWg)
 
 
 
