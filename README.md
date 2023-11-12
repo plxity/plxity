@@ -6,7 +6,7 @@ I have previously worked with Innovaccer, EventGraphia and Cupido as an intern.
 
 In my free time, I like to build projects - 
 
-1. [PorductGenie](https://productgenie.in/) - Generate stunning images for your product in seconds using AI
+1. [ProductGenie](https://productgenie.in/) - Generate stunning images for your product in seconds using AI
 2. [Tunes For Tales](http://tunesfortales.fun/) - An app that recommends songs that vibe with your story input and emotion.
 3. [Look For a Space](lookfora.space) - An application to search for interesting spaces happening on twitter.
 4. [ESBuild-cross-browser-css](https://www.npmjs.com/package/esbuild-plugin-cross-browser-css) - An ESBuild plugin to add support from cross browser CSS.
