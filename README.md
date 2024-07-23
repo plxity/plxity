@@ -16,12 +16,13 @@ In my free time, I like to build projects -
 
 
 I also like to give **tech talks** to share my learnings with the community.
-1. Introduction to scroll-driven animation and API
-2. [Beginners guide to Next-Auth](https://www.youtube.com/watch?v=npZsJxWntJM)
-3. [Build an online code editor like codesandbox using ESBuild](https://www.youtube.com/watch?v=SM3AfRvp3-Y)
-4. [Create your first babel plugin - Workshop](https://www.youtube.com/watch?v=dgK__fSFZzc)
-5. [Landing Frontend Engineering Roles - Github Tech Interviews Simplified](https://www.twitch.tv/videos/1185692903?collection=IQOse4ZdmRbKWg)
-6. [Everything at once  - Github education](https://www.twitch.tv/videos/1290211173?collection=i1ut3sdmzxaOAQ)
+1. [Creating beautiful experiences with Framer-Motion on web](https://www.youtube.com/watch?v=knLqwT6Q2fE&t=1s)
+2. Introduction to scroll-driven animation and API
+3. [Beginners guide to Next-Auth](https://www.youtube.com/watch?v=npZsJxWntJM)
+4. [Build an online code editor like codesandbox using ESBuild](https://www.youtube.com/watch?v=SM3AfRvp3-Y)
+5. [Create your first babel plugin - Workshop](https://www.youtube.com/watch?v=dgK__fSFZzc)
+6. [Landing Frontend Engineering Roles - Github Tech Interviews Simplified](https://www.twitch.tv/videos/1185692903?collection=IQOse4ZdmRbKWg)
+7. [Everything at once  - Github education](https://www.twitch.tv/videos/1290211173?collection=i1ut3sdmzxaOAQ)
 
 
 
