@@ -1,8 +1,8 @@
 # Hi there 👋
 
-I'm Apoorv. Currently wokring at Razorpay as a Frontend Engineer. 
+I'm Apoorv. Currently working at Ernest as a Senior Frontend Engineer. 
 
-I have previously worked with Innovaccer, EventGraphia and Cupido as an intern.
+I have previously worked with Razorpay, Innovaccer, EventGraphia and Cupido as an intern.
 
 In my free time, I like to build projects - 
 
