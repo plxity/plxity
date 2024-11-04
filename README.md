@@ -1,18 +1,18 @@
 # Hi there 👋
 
-I'm Apoorv. Currently working at Ernest as a Senior Frontend Engineer. 
+I'm Apoorv. Currently working at Composio as a Senior Frontend Engineer. 
 
-I have previously worked with Razorpay, Innovaccer, EventGraphia and Cupido as an intern.
+I have previously worked with Razorpay, Ernest Innovaccer, EventGraphia and Cupido.
 
-In my free time, I like to build projects - 
+I love to build side projects - 
 
 1. [ProductGenie](https://productgenie.in/) - Generate stunning images for your product in seconds using AI
 2. [Tunes For Tales](http://tunesfortales.fun/) - An app that recommends songs that vibe with your story input and emotion.
-3. [Look For a Space](lookfora.space) - An application to search for interesting spaces happening on twitter.
-4. [ESBuild-cross-browser-css](https://www.npmjs.com/package/esbuild-plugin-cross-browser-css) - An ESBuild plugin to add support from cross browser CSS.
-5. [React-Pincode](https://www.npmjs.com/package/react-pincode) - An NPM module which autofills city, state and distric details as you enter a valid pincode. 
+3. [Look For a Space](lookfora.space) - An application to search for interesting spaces happening on Twitter.
+4. [ESBuild-cross-browser-css](https://www.npmjs.com/package/esbuild-plugin-cross-browser-css) - An ESBuild plugin to add support from cross-browser CSS.
+5. [React-Pincode](https://www.npmjs.com/package/react-pincode) - An NPM module which auto-fills city, state and district details as you enter a valid pincode. 
 6. [Twitter BFF](http://twitterbff.vercel.app/) - A fun app to find your Twitter BFF based on your engagements. Had a reach of **150k** in 2 days.
-7. [Spotify Header](https://twitter.com/apoorv_taneja) - An application which updates my twitter header with top played Spotify Tracks in every 24 hours.
+7. [Spotify Header](https://twitter.com/apoorv_taneja) - An application which updates my Twitter header with top played Spotify Tracks in every 24 hours.
 
 
 I also like to give **tech talks** to share my learnings with the community.
