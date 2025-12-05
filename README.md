@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Apoorv. Currently working at Composio as a Senior Frontend Engineer. 
+I'm Apoorv. Currently working at Composio as a Senior AI Engineer. 
 
 I have previously worked with Razorpay, Ernest Innovaccer, EventGraphia and Cupido.
 
